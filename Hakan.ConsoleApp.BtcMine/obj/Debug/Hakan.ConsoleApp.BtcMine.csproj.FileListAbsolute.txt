@@ -1,0 +1,8 @@
+C:\Users\yildi\OneDrive\Desktop\Hakan.ConsoleApp.BtcMine\Hakan.ConsoleApp.BtcMine\bin\Debug\Hakan.ConsoleApp.BtcMine.exe.config
+C:\Users\yildi\OneDrive\Desktop\Hakan.ConsoleApp.BtcMine\Hakan.ConsoleApp.BtcMine\bin\Debug\Hakan.ConsoleApp.BtcMine.exe
+C:\Users\yildi\OneDrive\Desktop\Hakan.ConsoleApp.BtcMine\Hakan.ConsoleApp.BtcMine\bin\Debug\Hakan.ConsoleApp.BtcMine.pdb
+C:\Users\yildi\OneDrive\Desktop\Hakan.ConsoleApp.BtcMine\Hakan.ConsoleApp.BtcMine\obj\Debug\Hakan.ConsoleApp.BtcMine.csproj.AssemblyReference.cache
+C:\Users\yildi\OneDrive\Desktop\Hakan.ConsoleApp.BtcMine\Hakan.ConsoleApp.BtcMine\obj\Debug\Hakan.ConsoleApp.BtcMine.csproj.SuggestedBindingRedirects.cache
+C:\Users\yildi\OneDrive\Desktop\Hakan.ConsoleApp.BtcMine\Hakan.ConsoleApp.BtcMine\obj\Debug\Hakan.ConsoleApp.BtcMine.csproj.CoreCompileInputs.cache
+C:\Users\yildi\OneDrive\Desktop\Hakan.ConsoleApp.BtcMine\Hakan.ConsoleApp.BtcMine\obj\Debug\Hakan.ConsoleApp.BtcMine.exe
+C:\Users\yildi\OneDrive\Desktop\Hakan.ConsoleApp.BtcMine\Hakan.ConsoleApp.BtcMine\obj\Debug\Hakan.ConsoleApp.BtcMine.pdb
